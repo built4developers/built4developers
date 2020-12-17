@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Sreesiddhi from India, and I enjoy learning languages and frameworks. 
+### I'm Sreesiddhi from India, and I enjoy learning languages and frameworks. 
 
 
 Skills:  HTML / C / PYTHON
